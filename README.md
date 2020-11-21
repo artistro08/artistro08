@@ -1,4 +1,4 @@
-<img width="100%" src="https://devingreen.me/storage/app/media/og-image/home.png">
+<img width="100%" src="https://devingreen.me/storage/app/media/og-image/about-me.png">
 
 ## Yo! I'm Devin, a Full Stack Designer. I create brands and design websites.
 
